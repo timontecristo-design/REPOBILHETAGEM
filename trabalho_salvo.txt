@@ -1,0 +1,1 @@
+{'data': '23/08/2025', 'linha': '', 'prefixo': '', 'turno': '1º Turno', 'empresa': 'MONTE CRISTO', 'valores': {'VT': 0, 'Exp': 0, 'Meia': 0, 'Meia V': 0, 'QR Code': 0}}
